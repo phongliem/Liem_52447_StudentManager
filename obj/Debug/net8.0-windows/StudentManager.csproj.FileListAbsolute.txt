@@ -1,0 +1,16 @@
+D:\nguyendacphongliem_2447\StudentManager\bin\Debug\net8.0-windows\StudentManager.exe
+D:\nguyendacphongliem_2447\StudentManager\bin\Debug\net8.0-windows\StudentManager.deps.json
+D:\nguyendacphongliem_2447\StudentManager\bin\Debug\net8.0-windows\StudentManager.runtimeconfig.json
+D:\nguyendacphongliem_2447\StudentManager\bin\Debug\net8.0-windows\StudentManager.dll
+D:\nguyendacphongliem_2447\StudentManager\bin\Debug\net8.0-windows\StudentManager.pdb
+D:\nguyendacphongliem_2447\StudentManager\obj\Debug\net8.0-windows\StudentManager.Form1.resources
+D:\nguyendacphongliem_2447\StudentManager\obj\Debug\net8.0-windows\StudentManager.csproj.GenerateResource.cache
+D:\nguyendacphongliem_2447\StudentManager\obj\Debug\net8.0-windows\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\nguyendacphongliem_2447\StudentManager\obj\Debug\net8.0-windows\StudentManager.AssemblyInfoInputs.cache
+D:\nguyendacphongliem_2447\StudentManager\obj\Debug\net8.0-windows\StudentManager.AssemblyInfo.cs
+D:\nguyendacphongliem_2447\StudentManager\obj\Debug\net8.0-windows\StudentManager.csproj.CoreCompileInputs.cache
+D:\nguyendacphongliem_2447\StudentManager\obj\Debug\net8.0-windows\StudentManager.dll
+D:\nguyendacphongliem_2447\StudentManager\obj\Debug\net8.0-windows\refint\StudentManager.dll
+D:\nguyendacphongliem_2447\StudentManager\obj\Debug\net8.0-windows\StudentManager.pdb
+D:\nguyendacphongliem_2447\StudentManager\obj\Debug\net8.0-windows\StudentManager.genruntimeconfig.cache
+D:\nguyendacphongliem_2447\StudentManager\obj\Debug\net8.0-windows\ref\StudentManager.dll
